@@ -1,0 +1,9 @@
+{
+    "result": [
+        {"id": 1, "title": "movie 1", "img": "https://picsum.photos/id/1/400/300"},
+        {"id": 2, "title": "movie 2", "img": "https://picsum.photos/id/2/400/300"},
+        {"id": 3, "title": "movie 3", "img": "https://picsum.photos/id/3/400/300"},
+        {"id": 4, "title": "movie 4"}
+    ]
+
+}

@@ -46,7 +46,7 @@ const Home = () => {
             <a href="#">Horror</a>
           </li>
            <li>
-            <a href="#">Crime</a>
+            <a href="#">Biography</a>
           </li>
            <li>
             <a href="#">Comedy</a>

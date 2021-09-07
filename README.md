@@ -4,7 +4,7 @@ The purpose of this website was to create an e-commerce platform upon Developer 
 The website is hosted in https://tmdb-movie-app-project.netlify.app/
 
 # Features
-Search Films
-Adding Items to Favorite and Remove
-Movie Details Page
-Similar Movies
+- Search Films
+- Adding Items to Favorite and Remove
+- Movie Details Page
+- Similar Movies
